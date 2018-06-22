@@ -3,4 +3,4 @@
 
 效果如下
 
-![mv](https://github.com/lfxfengxia/FXCountdownLabel/raw/master/%E5%80%92%E8%AE%A1%E6%97%B6.mov)
+![mv](https://github.com/lfxfengxia/FXCountdownLabel/raw/master/mv.mov)
